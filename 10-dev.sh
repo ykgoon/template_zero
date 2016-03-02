@@ -1,1 +1,1 @@
-docker-compose -f docker-compose-dev.yml run --service-ports web
+docker-compose -f docker-compose-dev.yml run --service-ports --rm web
